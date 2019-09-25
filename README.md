@@ -1,6 +1,6 @@
 # Dilate Loss for crafting UAPs </h1>
 
-Code for our anonymous NIPS submission **Crafting Data-free Universal Adversaries with Dilate Loss** 
+Code for our anonymous ICLR submission **Crafting Data-free Universal Adversaries with Dilate Loss** 
 
 ## Usage Instructions
 ### 1) Preparation
